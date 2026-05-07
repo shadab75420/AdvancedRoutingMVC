@@ -7,7 +7,7 @@ The application includes:
 
 - Complex routing scenarios
 - Dynamic routing based on conditions
-- Custom route constraints
+- Custom route constraint
 - Route testing using browser endpoints
 
 The project is developed using ASP.NET Core MVC and .NET 10.0.
